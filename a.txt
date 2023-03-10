@@ -4,3 +4,5 @@ atualização
 de
 arquivo
 teste
+
+branch 3
