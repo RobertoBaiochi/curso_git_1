@@ -1,2 +1,7 @@
 testando repo 1 alo
+<<<<<<< HEAD
 agora ta na branch 3
+=======
+
+teste_criacao2
+>>>>>>> teste_criacao2
