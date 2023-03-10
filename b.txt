@@ -1,2 +1,8 @@
 testando
+<<<<<<< HEAD
 e
+=======
+branch
+nova
+3
+>>>>>>> teste_criacao3
