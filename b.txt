@@ -1,13 +1,7 @@
 testando
-<<<<<<< HEAD
-<<<<<<< HEAD
-e
-=======
-branch
-nova
-3
->>>>>>> teste_criacao3
-=======
 
-teste_criacao2
->>>>>>> teste_criacao2
+
+Sera
+que
+agora
+vai

@@ -5,8 +5,4 @@ de
 arquivo
 teste
 
-<<<<<<< HEAD
 branch 3
-=======
-teste_criacao2
->>>>>>> teste_criacao2
