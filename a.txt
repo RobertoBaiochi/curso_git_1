@@ -10,3 +10,7 @@ branch 3
 enviando
 a funcionalidade
 X
+
+enviando
+a funcionalidade
+B
