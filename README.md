@@ -28,3 +28,12 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
     3. Css diferente para grupo de clientes
 2. Interação com outros pagamentos
 3. Sistema de bônus primeira compra
+
+## Imagem local:
+
+![logo do javascript](img/javascript.png)
+
+
+## imagem externa:
+
+![Borat](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Borat.jpg/250px-Borat.jpg)
