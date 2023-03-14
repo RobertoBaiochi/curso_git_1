@@ -46,3 +46,10 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 Contribuidor principal: https://www.github.com/robertobaiochi
 
 [![Monty python](https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Monty_Python%27s_Personal_Best.jpg/250px-Monty_Python%27s_Personal_Best.jpg)](https://super.abril.com.br/comportamento/os-numeros-comprovaram-nao-e-facil-distinguir-bolsonaro-de-cartman-do-south-park/)
+
+## Códigos: 
+```javascript
+function soma(a, b) {
+  return a + b;
+}
+```
